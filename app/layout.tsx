@@ -11,7 +11,6 @@ export const metadata: Metadata = {
   title: "Beauford Junk Removal - Fast. Reliable. Local.",
   description:
     "Your go-to local service for clearing out unwanted clutter. Fast, affordable, and eco-friendly junk removal in Beauford.",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
