@@ -79,7 +79,7 @@ export function ContactForm() {
                   </div>
                   <div>
                     <h3 className="mb-1 font-semibold">Service Area</h3>
-                    <p className="text-muted-foreground">Beauford and surrounding areas</p>
+                    <p className="text-muted-foreground">Tucson and surrounding areas</p>
                   </div>
                 </div>
                 <div className="rounded-lg bg-muted p-4">
